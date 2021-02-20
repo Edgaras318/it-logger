@@ -8,11 +8,11 @@
       "data": "2021-02-20T09:32:55.783Z"
     },
     {
+      "id": 2,
       "message": "Changed network card in server 007",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-02-19T22:43:15.394Z",
-      "id": 2
+      "tech": "John Doe",
+      "data": "2021-02-20T10:12:09.891Z"
     },
     {
       "id": 3,
@@ -20,6 +20,13 @@
       "attention": true,
       "tech": "Sara Wilson",
       "data": "2021-02-20T09:31:25.572Z"
+    },
+    {
+      "message": "hi",
+      "attention": true,
+      "tech": "Edgaras Spiridonovas",
+      "date": "2021-02-20T10:23:30.774Z",
+      "id": 4
     }
   ],
   "techs": [
